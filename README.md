@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aastha Baid</h1>
 <h3 align="center">A passionate developer and AI enthusiast from India</h3>
 
-<img src="https://i.pinimg.com/736x/91/d3/b5/91d3b5eb246e4a990aab158dc2ee3cb7.jpg">
----
-
+<p align="center"> <img src="https://i.pinimg.com/736x/91/d3/b5/91d3b5eb246e4a990aab158dc2ee3cb7.jpg"> </p>
 ### 👨‍💻 About Me
 
 I'm a developer with experience in **AngularJS** and **Node.js**. I enjoy solving complex problems and sharpening my algorithmic skills using **C++ for DSA**.
