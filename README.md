@@ -2,17 +2,17 @@
 <h3 align="center">A passionate developer and AI enthusiast from India</h3>
 
 <p align="center"> <img src="https://i.pinimg.com/736x/91/d3/b5/91d3b5eb246e4a990aab158dc2ee3cb7.jpg"> </p>
-### 👨‍💻 About Me
+<h2> 👨‍💻 About Me </h2> 
 
 I'm a developer with experience in **AngularJS** and **Node.js**. I enjoy solving complex problems and sharpening my algorithmic skills using **C++ for DSA**.
 
 My passion lies at the intersection of web development and artificial intelligence. I am currently exploring the exciting field of Agentic AI as an interest, diving into technologies like **LangChain** and **LangGraph**.
+<ul>
+<li> 🌱 **Currently Exploring:** Agentic AI, LangChain, LangGraph</li>
+<li>  📫 **Reach me at:** aasthabaid3@gmail.com </li> 
+<li>  📄 **My Resume:** [View Here](https://drive.google.com/file/d/1tcM3V3YYe13wr3wgxQKXHF2WYJmb5a43/view?usp=drive_link) </li> 
+</ul>
 
-- 🌱 **Currently Exploring:** Agentic AI, LangChain, LangGraph
-- 📫 **Reach me at:** aasthabaid3@gmail.com
-- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1tcM3V3YYe13wr3wgxQKXHF2WYJmb5a43/view?usp=drive_link)
-
----
 
 ### 🔗 Connect with me:
 
